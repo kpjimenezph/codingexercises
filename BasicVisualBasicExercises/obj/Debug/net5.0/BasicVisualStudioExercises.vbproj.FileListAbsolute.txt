@@ -1,0 +1,16 @@
+K:\GitHub\BasicVisualStudioExercises\bin\Debug\net5.0\BasicVisualStudioExercises.exe
+K:\GitHub\BasicVisualStudioExercises\bin\Debug\net5.0\BasicVisualStudioExercises.deps.json
+K:\GitHub\BasicVisualStudioExercises\bin\Debug\net5.0\BasicVisualStudioExercises.runtimeconfig.json
+K:\GitHub\BasicVisualStudioExercises\bin\Debug\net5.0\BasicVisualStudioExercises.runtimeconfig.dev.json
+K:\GitHub\BasicVisualStudioExercises\bin\Debug\net5.0\BasicVisualStudioExercises.dll
+K:\GitHub\BasicVisualStudioExercises\bin\Debug\net5.0\ref\BasicVisualStudioExercises.dll
+K:\GitHub\BasicVisualStudioExercises\bin\Debug\net5.0\BasicVisualStudioExercises.pdb
+K:\GitHub\BasicVisualStudioExercises\obj\Debug\net5.0\BasicVisualStudioExercises.vbprojAssemblyReference.cache
+K:\GitHub\BasicVisualStudioExercises\obj\Debug\net5.0\BasicVisualStudioExercises.GeneratedMSBuildEditorConfig.editorconfig
+K:\GitHub\BasicVisualStudioExercises\obj\Debug\net5.0\BasicVisualStudioExercises.AssemblyInfoInputs.cache
+K:\GitHub\BasicVisualStudioExercises\obj\Debug\net5.0\BasicVisualStudioExercises.AssemblyInfo.vb
+K:\GitHub\BasicVisualStudioExercises\obj\Debug\net5.0\BasicVisualStudioExercises.vbproj.CoreCompileInputs.cache
+K:\GitHub\BasicVisualStudioExercises\obj\Debug\net5.0\BasicVisualStudioExercises.dll
+K:\GitHub\BasicVisualStudioExercises\obj\Debug\net5.0\ref\BasicVisualStudioExercises.dll
+K:\GitHub\BasicVisualStudioExercises\obj\Debug\net5.0\BasicVisualStudioExercises.pdb
+K:\GitHub\BasicVisualStudioExercises\obj\Debug\net5.0\BasicVisualStudioExercises.genruntimeconfig.cache
